@@ -34,12 +34,8 @@ make -j8
 The basic usage is
 
 ```
-python bin/main.py [OPTIONS] [<INPUT-FILES>]
+python bin/main.py [<INPUT-FILES>]
 ```
-
-The following options are accepted:
-* `-global_mappings`: use global level mappings instead of local level mappings; can provide a performance boost on tree decompositions for large instances
-
 
 ## Credits
 
