@@ -39,3 +39,8 @@ python bin/main.py [OPTIONS] [<INPUT-FILES>]
 
 The following options are accepted:
 * `-global_mappings`: use global level mappings instead of local level mappings; can provide a performance boost on tree decompositions for large instances
+
+
+## Credits
+
+Acknowledgements go to Rafael Kiesel for implementing parts of the translator for a different context.
